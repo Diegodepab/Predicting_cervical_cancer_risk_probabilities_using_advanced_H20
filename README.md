@@ -49,3 +49,6 @@ The dataset consists of multiple attributes including:
    - The best-performing model is selected.
    - LIME visualizations are generated to show feature importance.
 
+### Reference
+
+Prusty S, Patnaik S, Dash SK, Prusty SGP, Rautaray J, Sahoo G. 2024. Predicting cervical cancer risk probabilities using advanced H20 AutoML and local interpretable model-agnostic explanation techniques. PeerJ Computer Science 10:e1916 https://doi.org/10.7717/peerj-cs.1916
